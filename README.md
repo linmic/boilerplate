@@ -9,5 +9,5 @@ tweaked a bit, as following:
 - enable [css modules](https://github.com/css-modules/css-modules)
 - added [flow type checking](https://flow.org/)
 - added my own [.eslintrc.js](https://github.com/linmic/boilerplate/blob/master/.eslintrc.js), extended by [eslint-config-airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb)
-- added prettier
+- added [prettier](https://github.com/prettier/prettier)
 - added [lint-staged](https://github.com/okonet/lint-staged) and [pre-commit](https://github.com/observing/pre-commit) hook
