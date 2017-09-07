@@ -1,0 +1,14 @@
+$rex-red: #bf0000;
+
+.container {
+  padding: 10px 10px 0 10px;
+
+  .btn {
+    cursor: pointer;
+    background: $rex-red;
+    color: #fff;
+    padding: 8px 24px;
+    border-radius: 3px;
+    font: 100 16px/1.5 'SF Mono', 'Noto Sans Japanese', Arial, sans-serif;
+  }
+}
